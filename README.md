@@ -7,6 +7,7 @@
 
 ## 下载&使用
 1.  [下载](https://codeload.github.com/Sign10/BasedOnNetEase-CloudMusic/zip/refs/heads/main) 源代码；
+1.  在[网易云音乐NodeJS版API](https://codeload.github.com/Sign10/BasedOnNetEase-CloudMusic/zip/refs/heads/main) 中，根据文档，部署nodejs的后端服务器，以供前端axios请求。
 
 
 ## 建议&意见
