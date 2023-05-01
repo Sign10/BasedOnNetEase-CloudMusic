@@ -1,0 +1,2 @@
+# BasedOnNetEase-CloudMusic
+这是一个仿网易云音乐的移动端Vue2项目
