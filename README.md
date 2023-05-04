@@ -1,6 +1,6 @@
 <h1 align="center">BasedOnNetEase-CloudMusic</h1>
 
-> 该仿网易云音乐移动端网页Vue2项目由本人根据B站教程[BV1c44y1g7ac](https://www.bilibili.com/video/BV1c44y1g7ac/?spm_id_from=333.999.0.0&vd_source=a9efd8026707dcaed89f78dca2453338)所手打编写，经测试过后没有任何BUG，并且实现了教程内的基本功能。除此之外，我为代码编写了详细的注释，供大家参考和学习。后期会更新Vue3的版本。
+> 该仿网易云音乐移动端网页Vue2项目由本人经测试过后没有任何BUG，并且实现了基本功能。除此之外，我为代码编写了详细的注释，供大家参考和学习。后期会更新Vue3的版本。
 
 ---
 
